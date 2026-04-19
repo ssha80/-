@@ -22,7 +22,7 @@ javapublic class SachinSharma {
     String name        = "Sachin Sharma";
     String role        = "Automation Test Engineer";
     String company     = "Infosys";
-    String[] skills    = {"Core Java", "Automation Testing", "DSA", "Problem Solving"};
+    String[] skills    = {"Core Java & C++", "Automation Testing", "DSA", "Problem Solving"};
     String leetcode    = "sachin_HZ";
     String education   = "B.E. / B.Tech — EE/ECE";
     String passion     = "Writing clean code & breaking things (purposefully)";
