@@ -99,7 +99,7 @@ Show Image
     <img src="https://img.shields.io/badge/LeetCode-sachin__HZ-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/sachinshz">
+  <a href="www.linkedin.com/in/sachinshz/">
     <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
   </a>
   &nbsp;
